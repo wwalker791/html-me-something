@@ -1,0 +1,24 @@
+
+p {
+background-color: green;
+}
+
+.title {
+    background-color: goldenrod;
+}
+
+#sectionheader {
+    background-color: brown;
+}
+
+p {
+ margin: 25px 100px 25px 100px
+}
+
+body {
+ background-color: grey;
+}
+
+img {
+margin: auto;
+}
